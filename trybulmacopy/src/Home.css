@@ -1,0 +1,81 @@
+.home{
+    display: flex;
+    flex-direction: row;
+    background-color: DodgerBlue;
+    height: auto;
+}
+.home1{
+    height: 0px auto;
+    background-color: white;
+    padding-left: 500px;
+
+}
+
+.home2{
+    display: flex;
+    flex-direction: column;
+    height:0px auto;
+    width: 900px;
+
+    background-color: green;
+}
+
+.home3{
+    height: 0px auto;
+
+    padding-left: 500px;
+    background-color: white;
+}
+
+.home21{
+    display: flex;
+    flex-direction: row;
+}
+.imag21{
+    width: 500px;
+    height: 300px;
+}
+
+.beforeafter{
+    background-color: blanchedalmond;
+    padding-top: 90px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+
+}
+
+.home22{
+    display: flex;
+    flex-direction: row;
+}
+.imag22{
+     width: 500px;
+     height: 300px;
+ }
+
+.beforeafter2{
+    background-color: grey;
+    padding-top: 90px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+
+.home23{
+    display: flex;
+    flex-direction: row;
+}
+
+.imag23{
+    width: 500px;
+    height: 300px;
+}
+
+.beforeafter3{
+    background-color: yellow;
+    padding-top: 110px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
